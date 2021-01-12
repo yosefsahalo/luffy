@@ -23,7 +23,7 @@ header{
     width: 450px;
     height: 450px;
     margin: auto;
-    background-image: url(/images/luffy2.jpg);
+    background-image: url(images/luffy2.jpg);
     background-size: 100%;
     border-radius: 600px;
     box-shadow: 20px -18px 2px 15px;
@@ -31,7 +31,7 @@ header{
     transition: background-image 4s  linear;
 } 
 #mdl:hover{
-    background-image: url(/images/luffy5.jpg.jpg);
+    background-image: url(images/luffy5.jpg.jpg);
     filter: brightness(160%);
 }   
 a:hover{
